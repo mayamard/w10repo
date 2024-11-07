@@ -3,6 +3,8 @@ title: "w10"
 output: html_document
 date: "2024-11-07"
 ---
-hello *testing*
-this is week ~10~
-week 10
+
+hello *testing* this is week ~10~ week 10
+
+maya
+mmmmmm
